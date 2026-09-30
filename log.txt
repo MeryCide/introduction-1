@@ -1,0 +1,3 @@
+git log --oneline --all
+git add log.txt
+git commit -m "Добавил log.txt"
